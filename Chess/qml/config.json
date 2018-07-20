@@ -1,0 +1,8 @@
+{
+    "title": "Chess",
+    "identifier": "com.yourcompany.wizardEVP.Chess",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
